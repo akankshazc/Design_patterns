@@ -1,3 +1,5 @@
+// Create an abstract Duck class with instance variables for fly and quack behaviors.
+
 public abstract class Duck {
     FlyBehavior flyBehavior;
     QuackBehavior quackBehavior;
@@ -17,5 +19,14 @@ public abstract class Duck {
 
     public void swim() {
         System.out.println("All ducks float, even decoys!");
+    }
+
+    // Add setter methods for fly and quack behaviors.
+    public void setFlyBehavior(FlyBehavior fb) {
+        flyBehavior = fb;
+    }
+
+    public void setQuackBehavior(QuackBehavior qb) {
+        quackBehavior = qb;
     }
 }

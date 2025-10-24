@@ -1,3 +1,5 @@
+package hf_1;
+
 // Create a ModelDuck subclass that extends the abstract class Duck
 
 public class ModelDuck extends Duck {

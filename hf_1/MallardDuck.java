@@ -1,3 +1,5 @@
+package hf_1;
+
 // Create a MallardDuck subclass that extends the abstract class Duck
 
 public class MallardDuck extends Duck {

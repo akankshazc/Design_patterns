@@ -1,3 +1,5 @@
+package hf_1;
+
 // Create an abstract Duck class with instance variables for fly and quack behaviors.
 
 public abstract class Duck {

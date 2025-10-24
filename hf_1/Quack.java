@@ -1,3 +1,5 @@
+package hf_1;
+
 // Implement the QuackBehavior interface 
 // in concrete class for ducks that quack normally
 

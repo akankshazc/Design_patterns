@@ -1,3 +1,5 @@
+package hf_1;
+
 // Implement the FlyBehavior interface 
 // in concrete class for ducks that fly with a rocket
 

@@ -1,3 +1,5 @@
+package hf_1;
+
 // MiniDuckSimulator to create instances of Duck 
 // subclasses with different behaviors
 
@@ -16,5 +18,9 @@ public class MiniDuckSimulator {
         // Changing fly behavior at runtime using the setter method
         model.setFlyBehavior(new FlyRocketPowered());
         model.performFly();
+
+        // DuckCall class
+        DuckCall call = new DuckCall();
+        call.performQuack();
     }
 }

@@ -1,3 +1,5 @@
+// Create a MallardDuck subclass that extends the abstract class Duck
+
 public class MallardDuck extends Duck {
     public MallardDuck() {
         quackBehavior = new Quack();

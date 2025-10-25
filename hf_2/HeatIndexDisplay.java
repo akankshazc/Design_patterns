@@ -1,10 +1,10 @@
 package hf_2;
 
-public class HeadIndexDisplay implements Display, Observer {
+public class HeatIndexDisplay implements Display, Observer {
     float heatIndex = 0.0f;
     private WeatherData weatherData;
 
-    public HeadIndexDisplay(WeatherData weatherData) {
+    public HeatIndexDisplay(WeatherData weatherData) {
         this.weatherData = weatherData;
         weatherData.registerObserver(this);
     }

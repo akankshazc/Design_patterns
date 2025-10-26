@@ -1,4 +1,4 @@
-package hf_2;
+package hf_2.weather;
 
 public class ForecastDisplay implements Display, Observer {
     private float currentPressure = 29.2f;

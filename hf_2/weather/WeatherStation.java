@@ -1,4 +1,4 @@
-package hf_2;
+package hf_2.weather;
 
 public class WeatherStation {
     public static void main(String[] args) {

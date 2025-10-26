@@ -1,4 +1,4 @@
-package hf_2;
+package hf_2.weather;
 
 public class HeatIndexDisplay implements Display, Observer {
     float heatIndex = 0.0f;

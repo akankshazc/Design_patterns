@@ -1,4 +1,4 @@
-package hf_2;
+package hf_2.weather;
 
 public class CurrentConditionDisplay implements Display, Observer {
     private float temp;

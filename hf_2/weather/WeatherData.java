@@ -1,4 +1,4 @@
-package hf_2;
+package hf_2.weather;
 
 import java.util.*;
 

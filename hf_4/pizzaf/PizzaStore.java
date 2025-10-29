@@ -1,4 +1,4 @@
-import hf_4.pizza.Pizza;
+package hf_4.pizzaf;
 
 public abstract class PizzaStore {
     abstract Pizza createPizza(String item);

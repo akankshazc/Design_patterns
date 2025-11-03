@@ -28,7 +28,7 @@ public class Waitress {
         printMenu(cafeIterator);
     }
 
-    public void printMenu(Iterator<MenuItem> iterator) {
+    private void printMenu(Iterator<MenuItem> iterator) {
         while (iterator.hasNext()) {
             MenuItem menuItem = iterator.next();
 

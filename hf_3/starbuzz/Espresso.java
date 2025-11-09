@@ -1,4 +1,4 @@
-package hf_3.Starbuzz;
+package hf_3.starbuzz;
 
 public class Espresso extends Beverage {
     public Espresso() {

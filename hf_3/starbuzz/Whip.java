@@ -1,4 +1,4 @@
-package hf_3.Starbuzz;
+package hf_3.starbuzz;
 
 public class Whip extends CondimentDecorator {
     public Whip(Beverage beverage) {

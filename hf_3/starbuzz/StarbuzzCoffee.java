@@ -1,4 +1,4 @@
-package hf_3.Starbuzz;
+package hf_3.starbuzz;
 
 public class StarbuzzCoffee {
         public static void main(String args[]) {

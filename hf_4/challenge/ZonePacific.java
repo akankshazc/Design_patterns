@@ -1,0 +1,8 @@
+package hf_4.challenge;
+
+public class ZonePacific extends Zone {
+    public ZonePacific() {
+        displayName = "US/Pacific";
+        offset = -8;
+    }
+}
